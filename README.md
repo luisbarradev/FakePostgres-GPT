@@ -21,7 +21,7 @@ FakePostgres-GPT is a PostgreSQL server simulator that uses AI to respond to que
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/FakePostgres-GPT.git
+   git clone https://github.com/luisbarradev/FakePostgres-GPT
    cd FakePostgres-GPT
    ```
 
